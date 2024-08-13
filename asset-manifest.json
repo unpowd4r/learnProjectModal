@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learnProjectModal/static/css/main.3399577e.css",
+    "main.js": "/learnProjectModal/static/js/main.15c069ad.js",
+    "static/js/453.ed3810f9.chunk.js": "/learnProjectModal/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/learnProjectModal/index.html",
+    "main.3399577e.css.map": "/learnProjectModal/static/css/main.3399577e.css.map",
+    "main.15c069ad.js.map": "/learnProjectModal/static/js/main.15c069ad.js.map",
+    "453.ed3810f9.chunk.js.map": "/learnProjectModal/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3399577e.css",
+    "static/js/main.15c069ad.js"
+  ]
+}
