@@ -5,6 +5,7 @@ import {Button} from "./components/Button.styled";
 import {Heading, Paragraph} from "./components/Text.styled";
 import {Box} from "./components/Box.styled";
 import {Img} from "./components/Img.styled";
+import {Buttons} from "./components/Buttons.styled.";
 
 function App() {
   return (
@@ -13,10 +14,10 @@ function App() {
           <Img src={process.env.PUBLIC_URL + '/Rectangle.png'} alt="Изображение" />
           <Heading>Headline</Heading>
           <Paragraph>Faucibus. Faucibus. Sit sit sapien sit <br/> tempusrisu ut. Sit molestie ornare in venen.</Paragraph>
-          <div className='Buttons'>
+          <Buttons>
               <Button>See more</Button>
               <Button style={{ marginLeft: '12px' }}>Save</Button>
-          </div>
+          </Buttons>
       </Box>
     </div>
   );
